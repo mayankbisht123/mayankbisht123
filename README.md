@@ -1,6 +1,6 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/978/259/719/despicable-me-assassin-s-creed-crossover-video-games-wallpaper-preview.jpg)](https://Aashish-creates.io)
-<h1 align="center">Hi 👋, I'm Aashish Subedi</h1>
-<h3 align="center">Fun Coder from India</h3>
+<h1 align="center">Hi 👋, I'm Mayank Bisht</h1>
+<h3 align="center">Pro Coder from India</h3>
 <img align "right" alt="Gangster" width="400" src="https://c4.wallpaperflare.com/wallpaper/817/397/84/naruto-shippuuden-akatsuki-uchiha-itachi-wallpaper-preview.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-creates&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-creates" /> </p>
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/asis asis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asis asis" height="30" width="40" /></a>
-<a href="https://instagram.com/aa_sheesh_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aa_sheesh_007" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/aashish subedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aashish subedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashishsubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashishsubedi" height="30" width="40" /></a>
 </p>
